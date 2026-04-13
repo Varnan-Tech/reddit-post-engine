@@ -1,5 +1,8 @@
 # reddit-post-engine
 
+<img width="1280" height="640" alt="reddit-post-engine" src="https://github.com/user-attachments/assets/2706f326-5fb9-46fc-851a-ec54ccf53f74" />
+
+
 Write and optionally post Reddit content that fits the target subreddit's culture. Fetches subreddit rules and top posts before drafting. Follows the 90/10 rule. Optionally posts via Composio Reddit MCP.
 
 ## What It Does
